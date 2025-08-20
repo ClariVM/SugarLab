@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">challengeSugarLab</string>
+    <string-array name="poligonosArray">
+        <item>Triángulo</item>
+        <item>Cuadrado</item>
+        <item>Rectángulo</item>
+    </string-array>
+
+</resources>
